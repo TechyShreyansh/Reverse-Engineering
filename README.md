@@ -1,6 +1,21 @@
 ## Reverse Engineering resources  
 [![Awesome](https://2.bp.blogspot.com/-nz0jFFFA4Hc/WHubiaz8ecI/AAAAAAAAB08/g2erX6roVBYCfwWjIGUOBYMkcB7ghRL2wCLcB/s1600/reverse%2Bengineering.png)](http://kalitut.com)
 A curated list of awesome reversing resources   
+# Categories
+-  [Apk Modding Tool For Manual App Modding Pc Software
+](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#apk-modding-tool-for-manual-app-modding-pc-software)
+ - [Additional Tools](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#additional-tools)
+ - [Mod Menu Templates](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#mod-menu-templates)
+ - [Dumping and Unpacking](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#dumping-and-unpacking)
+ - [Packing and Protection](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#packing-and-protection)
+ - [C++ Libraries](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#c-libraries)
+ - [Hooking Libraries and Templates](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#hooking-libraries-and-templates)
+ - [Modding Projects and Tutorials](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#modding-projects-and-tutorials)
+ - [Modding Tools](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#modding-tools)
+ - [IDA and Reverse-Engineering Platforms](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#ida-and-reverse-engineering-platforms)
+ - [Frida](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#frida)
+ - [Virtual Engines](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#virtual-engines)
+ - [Other](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#other)
 
 - [Awesome Reversing](#awesome-reversing)
     - [Books](#books)
@@ -236,6 +251,70 @@ A curated list of awesome reversing resources
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
 * [JaDx](https://github.com/skylot/jadx)
+
+    ## Apk Modding Tool For Manual App Modding Pc Software
+
+  *Manual Apk Modding Tools*
+
+1- [Notepad++](https://notepad-plus-plus.org/downloads/) For : PC // Use: Text editors for editing code and resources within APK files. They support syntax highlighting and other features useful for coding.
+
+2- [Sublime Text](https://www.sublimetext.com/) For : PC // Use: Text editors for editing code and resources within APK files. They support syntax highlighting and other features useful for coding.
+
+3- [Winmerge](https://winmerge.org/?lang=en) For : PC // Use: A differencing and merging tool to compare and merge files. Useful for identifying changes between different versions of APK files.
+
+4- [Apk Tool](https://apktool.org/) For : PC // Use: Decompiles APK files to their source code and resources, allowing for modification. It can also recompile the modified files back into an APK.
+
+5- [APK Easy Tool](https://androidmtk.com/apk-easy-tool) For : PC // Use: A GUI tool for decompiling, recompiling, signing, and zipaligning APK files. Simplifies the process of APK modification.
+
+6- [Download the Latest Java LTS Free](https://www.oracle.com/in/java/technologies/downloads/) For : PC // Use: Required for running Java-based tools and compiling code. Essential for many APK modding tools.
+
+7- [JADX](https://sourceforge.net/projects/jadx.mirror/) For : PC // Use: A decompiler that converts APK files into readable Java source code. Useful for understanding and modifying the code.
+
+8- [Android Studio](https://developer.android.com/studio) For : PC // Use: The official IDE for Android development. Provides tools for building, testing, and debugging Android apps.
+
+9- [GIMP](https://www.gimp.org/) For : PC // Use: Image editors for modifying app graphics and UI elements.
+
+10- [Photoshop](https://getintopc.com/softwares/graphic-design/adobe-photoshop-portable-cs6-free-download-4130718/) For : PC // Use: Image editors for modifying app graphics and UI elements.
+
+11- [Xposed Framework](https://github.com/ElderDrivers/EdXposed) For : Android // Use: Allows for system-level modifications without altering APK files. Useful for creating custom modules that modify app behavior.
+
+12- [Magisk](https://magiskmanager.com/) For : Android // Use: A systemless rooting solution that allows for modifications without altering the system partition. Useful for hiding root from apps.
+
+13- [JEB Decompiler](https://www.pnfsoftware.com/) For : PC // Use: A systemless rooting solution that allows for modifications without altering the system partition. Useful for hiding root from apps.
+
+14- [Dex2Jar](https://sourceforge.net/projects/dex2jar/) For : PC // Use: Converts .dex files (Dalvik Executable) to .jar files (Java Archive), making it easier to decompile and analyze APK files.
+
+15- [JD-GUI](https://java-decompiler.github.io/) For : PC // Use: A graphical utility for viewing Java source code from .class files. Useful for analyzing decompiled code.
+
+16- [Black Dex](https://github.com/CodingGay/BlackDex/blob/main/README_EN.md) For : PC // Use: A tool for extracting and modifying .dex files from APKs.
+
+17- [Ghidra: Reverse engineering tool for analyzing APKs](https://ghidra-sre.org/) For : PC // Use: A reverse engineering tool for analyzing APKs and other binaries. Provides a comprehensive suite of analysis tools.
+
+18- [Radare2: Advanced reverse engineering framework.](https://rada.re/r/down.html) For : PC // Use: An advanced reverse engineering framework for analyzing binaries. Supports a wide range of file formats.
+
+19- [Hex-Rays Decompiler (IDA Pro): High-level decompiler for detailed code analysis.](https://hex-rays.com/decompiler/) For : PC // Use: A high-level decompiler for detailed code analysis. Useful for understanding complex code structures.
+
+20- [Frida: Dynamic instrumentation toolkit for debugging and modifying apps at runtime.](https://frida.re/docs/installation/) For : PC // Use: A dynamic instrumentation toolkit for debugging and modifying apps at runtime. Allows for real-time code injection.
+
+21- [Burp Suite - Web Aplication Security](https://portswigger.net/) For : PC // Use: A web vulnerability scanner and proxy tool. Useful for testing the security of web components in APKs.
+
+22- [Hex Editor](https://mh-nexus.de/en/hxd/) For : PC // Use: A hex editor for modifying binary files. Useful for low-level modifications of APK files.
+
+*Additional Tools*
+
+23- [MT Manager](#) For : Android
+
+24- [ClassyShark](https://github.com/google/android-classyshark) For : PC // Use: A standalone tool for analyzing Android applications. Provides detailed information about APK contents.
+
+25- [AxmlPrinter2](https://github.com/digitalsleuth/AXMLPrinter2) For : PC // Use: Converts binary XML files in APKs to human-readable format.
+
+26- [Androguard](https://github.com/androguard/androguard) For : PC // Use: A full suite of tools for analyzing and reverse engineering Android applications.
+
+27- [Bytecode Viewer](https://www.bytecodeviewer.com/) For : Android // Use: A Java bytecode viewer that integrates several decompilers and tools for analyzing APK files.
+
+29- [SmaliEx](https://bitbucket.org/JesusFreke/smali/downloads/) For : Android // Use: A tool for working with smali code, which is the intermediate representation of Android bytecode.
+
+29- [Objection](https://github.com/sensepost/objection) For : PC // Use: A runtime mobile exploration toolkit that allows for dynamic analysis and modification of APKs.
 
 ## Yara
 
