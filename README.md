@@ -1,21 +1,6 @@
 ## Reverse Engineering resources  
 [![Awesome](https://2.bp.blogspot.com/-nz0jFFFA4Hc/WHubiaz8ecI/AAAAAAAAB08/g2erX6roVBYCfwWjIGUOBYMkcB7ghRL2wCLcB/s1600/reverse%2Bengineering.png)](http://kalitut.com)
 A curated list of awesome reversing resources   
-# Categories
--  [Apk Modding Tool For Manual App Modding Pc Software
-](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#apk-modding-tool-for-manual-app-modding-pc-software)
- - [Additional Tools](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#additional-tools)
- - [Mod Menu Templates](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#mod-menu-templates)
- - [Dumping and Unpacking](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#dumping-and-unpacking)
- - [Packing and Protection](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#packing-and-protection)
- - [C++ Libraries](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#c-libraries)
- - [Hooking Libraries and Templates](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#hooking-libraries-and-templates)
- - [Modding Projects and Tutorials](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#modding-projects-and-tutorials)
- - [Modding Tools](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#modding-tools)
- - [IDA and Reverse-Engineering Platforms](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#ida-and-reverse-engineering-platforms)
- - [Frida](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#frida)
- - [Virtual Engines](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#virtual-engines)
- - [Other](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#other)
 
 - [Awesome Reversing](#awesome-reversing)
     - [Books](#books)
@@ -34,6 +19,7 @@ A curated list of awesome reversing resources
     - [Scripting](#scripting)
     - [Android](#android)
     - [Yara](#yara)
+    - [Apk Modding Tool For Manual App Modding Pc Software](#apk-modding-tool-for-manual-app-modding-pc-software)
 
 - - -
 
